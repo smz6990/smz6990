@@ -5,8 +5,9 @@
 - How to reach me saleh.mohammadzadeh@gmail.com
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-
-![](https://img.shields.io/website?down_message=salehmzh.ir&up_color=green&up_message=salehmzh.ir&url=https%3A%2F%2Fsalehmzh.ir%2F)
+<a href="https://salehmzh.ir/">
+  ![](https://img.shields.io/website?down_message=salehmzh.ir&up_color=green&up_message=salehmzh.ir&url=https%3A%2F%2Fsalehmzh.ir%2F)
+</a>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
